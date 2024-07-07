@@ -6,3 +6,4 @@
   <li>CSS</li>
   <li>JavaScript</li>
 </p>
+<p>Site is deployed at <a href="https://anki2003ta.github.io/Rock_Paper_Scissors/Task-1/index.html">https://anki2003ta.github.io/Rock_Paper_Scissors/Task-1/index.html</a>
